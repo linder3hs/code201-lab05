@@ -25,6 +25,8 @@ function testMultiply() {
   }
 }
 
+testMultiply();
+
 function testSumAndMultiply() {
   //eslint-disable-line
   if (
